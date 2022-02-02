@@ -16,14 +16,12 @@
  
 ### Hi there 👋
 
-<!--
-
 - 🔭 I’m currently working on Energy Time Series
 - 🌱 I’m currently learning R and Python
 - 👯 I’m looking to collaborate on Projects related to Energy or Financial data
 - 📫 How to reach me: gabrielcalvo2812@gmail.com
 
-**GabrielCalvo2812/GabrielCalvo2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **GabrielCalvo2812/GabrielCalvo2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
