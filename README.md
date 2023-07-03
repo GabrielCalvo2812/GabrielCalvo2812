@@ -16,10 +16,8 @@
  
 ### Hi there 👋
 
-- 🔭 I’m currently working on Energy Time Series
-- 🌱 I’m currently learning R and Python
-- 👯 I’m looking to collaborate on Projects related to Energy or Financial data
-- 📫 How to reach me: gcm.gabrielmartinez@gmail.com
+- 🌱 I’m currently learning Python
+- 🔜 New projects with financial data coming soon 
 
 <!-- **gcmgabrielmartinez/gcmgabrielmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
