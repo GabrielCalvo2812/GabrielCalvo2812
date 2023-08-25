@@ -16,8 +16,9 @@
  
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
-- 🔜 New projects with financial data coming soon 
+- I’m currently learning Python
+- New projects with financial data coming soon
+- Reach me on LinkedIn
 
 <!-- **gcmgabrielmartinez/gcmgabrielmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
